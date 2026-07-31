@@ -1,0 +1,7 @@
+Chocolate_Sales_Analytics/
+│
+├── app.py                           # ★ Predictive Analytics Dashboard (Streamlit)
+├── cleaning_report_automation.py    # Data Cleaning & Excel Report Automation
+├── Chocolate Sales.csv              # Dataset (must be in the same folder)
+├── requirements.txt                 # Python dependencies
+└── README.md                        # This file
